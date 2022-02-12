@@ -1,5 +1,7 @@
 # Maven-Analytics-NYC-TAXI-CHALLENGE
 
+Link to challenge:- https://www.mavenanalytics.io/blog/maven-taxi-challenge
+
 ![image](https://user-images.githubusercontent.com/13623073/153695499-c9be56a0-e11f-4c5d-a841-848db6a5e6bf.png)
 
 For the Maven Taxi Challenge, you’ll be playing the role of a new Data Analyst for the New York City Taxi & Limousine Commission.
